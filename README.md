@@ -20,7 +20,7 @@
 
 ## 📌 Project Overview
 
-The **MHT-CET College Predictor & Admission Analytics System** is a data-driven admission decision-support application built with **Python, Flask, Pandas, and CatBoost**. It helps students explore potential engineering college and branch options by comparing their MHT-CET percentile with historical admission cutoff records.
+The **MHT-CET College Predictor & Admission Analytics System** is a data-driven admission decision-support application built with **Python, Flask, Pandas, and CatBoost**. It helps students explore potential engineering college and branch options by comparing their MHT-CET percentile with historical admission cutoff records..
 
 The application combines historical cutoff filtering, a trained **CatBoost regression model**, and an interactive interface to display ranked college options and admission-related analytics.
 
